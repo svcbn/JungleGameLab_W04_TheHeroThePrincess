@@ -13,6 +13,6 @@
 ---
 프로젝트 소개 - [Notion](https://svcbn.notion.site/The-Hero-The-Princess-b7f3ff6087914bf6a6e4eba5280d9790?pvs=4)  
 
-프로젝트 영상 - [Youtube]()  
+프로젝트 영상 - [Youtube](https://youtu.be/J6fvfiZQrM4)  
 
 프로젝트 다운로드 - [Download ZIP](https://github.com/svcbn/JungleGameLab_W04_TheHeroThePrincess/raw/main/Build.zip)
